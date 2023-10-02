@@ -27,5 +27,5 @@ Default parameters:
 
 # Significant Groups Summary Statistics
 
-
+![alt text](https://github.com/Miray-Unlu/mirCorrNetPro/blob/main/Images/significant_groups.PNG?raw=true)
  
