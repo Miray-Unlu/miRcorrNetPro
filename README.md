@@ -5,3 +5,6 @@ miRcorrNetPro tool utilizes Cross-Validation to reveal hidden biological knowled
 The tool tracks group scoring, ranking and other information through the cross-validation iterations.
 Heatmap visualizations enable deep novel insights into the collective behavior of clusters of groups in cellular signaling and hence facilitate detection of potential biomarkers for the disease under investigation.
 
+# Main Workflow
+
+ ![alt text](https://github.com/Miray-Unlu/mirCorrNetPro/blob/main/Images/main_workflow.PNG?raw=true)
