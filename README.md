@@ -20,10 +20,10 @@ The link for downloading KNIME: https://www.knime.com/downloads. For more inform
 # Set up Parameters
 
 Default parameters:
-*Positive Correlation Threshold (Default: 0.6) 
-*Negative Correlation Threshold (Default: -0.6) 
-*Number of iteration (Default: 100) 
-*Number of iterations for Internal Rank (Default: 10)
+* Positive Correlation Threshold (Default: 0.6) 
+* Negative Correlation Threshold (Default: -0.6) 
+* Number of iteration (Default: 100) 
+* Number of iterations for Internal Rank (Default: 10)
 
 # Significant Groups Summary Statistics
 
