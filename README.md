@@ -8,3 +8,5 @@ Heatmap visualizations enable deep novel insights into the collective behavior o
 # Main Workflow
 
  ![alt text](https://github.com/Miray-Unlu/mirCorrNetPro/blob/main/Images/main_workflow.PNG?raw=true)
+
+ 
